@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "7f007839f93a101f",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7ab6fc3fc495ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2. 数据的表示和处理/除以2的幂.md",
+            "mode": "source"
+          }
+        },
+        "group": "de9944c429947381"
+      },
+      {
+        "id": "17be216a37f9fe81",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2. 数据的表示和处理/除以2的幂.md",
+            "mode": "preview"
+          }
+        },
+        "group": "de9944c429947381"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8682837fa5b56d6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2410d327ba981ee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35b819b700425816",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "88aa577aacf749dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf1ce3df7fb77343",
+    "type": "split",
+    "children": [
+      {
+        "id": "3049b005c4bd1168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c8f0bcb344385bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. 数据的表示和处理/除以2的幂.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "17be216a37f9fe81",
+  "lastOpenFiles": [
+    "2. 数据的表示和处理/除以2的幂.md",
+    "2. 数据的表示和处理/乘以常数.md",
+    "2. 数据的表示和处理/补码加法.md",
+    "2. 数据的表示和处理/无符号加法.md",
+    "2. 数据的表示和处理/整数运算.md",
+    "2. 数据的表示和处理/位向量.md",
+    "2. 数据的表示和处理/有限集合.md",
+    "2. 数据的表示和处理/扩展一个数字的位表示.md",
+    "2. 数据的表示和处理/截断数字.md",
+    "计算机系统漫游/Intro.md"
+  ]
+}
