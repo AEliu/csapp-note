@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. 数据的表示和处理/除以2的幂.md",
+            "file": "2. 数据的表示和处理/偏置.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. 数据的表示和处理/除以2的幂.md",
+                "file": "2. 数据的表示和处理/偏置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "af7ab6fc3fc495ef",
   "lastOpenFiles": [
+    "2. 数据的表示和处理/偏置.md",
     "2. 数据的表示和处理/除以2的幂.md",
     "2. 数据的表示和处理/乘以常数.md",
     "2. 数据的表示和处理/补码加法.md",
@@ -96,7 +97,6 @@
     "2. 数据的表示和处理/位向量.md",
     "2. 数据的表示和处理/有限集合.md",
     "2. 数据的表示和处理/扩展一个数字的位表示.md",
-    "2. 数据的表示和处理/截断数字.md",
-    "计算机系统漫游/Intro.md"
+    "2. 数据的表示和处理/截断数字.md"
   ]
 }
